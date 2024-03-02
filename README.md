@@ -13,7 +13,7 @@ Experienced Associate Software Engineer with expertise in Java, Microsoft techno
 ## Skills
 
 - **Soft Skills:** Team Collaboration, Adaptability, Problem-Solving, Initiative
-- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Frontend:** HTML: 🌐, CSS: 🎨, JavaScript: 💻, React.js: ⚛️
 - **Backend:** Core Java, Node.js
 - **Database:** MySQL, Oracle SQL, MongoDB
 - **Cloud:** GCP, Docker, DevOps
