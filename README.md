@@ -1,16 +1,22 @@
-### Hi there 👋
+# Dhirendra Kumar Singh
 
-<!--
-**DhirendraSingh12/DhirendraSingh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer | Bengaluru, India
 
-Here are some ideas to get you started:
+Experienced Associate Software Engineer with expertise in Java, Microsoft technologies, and a proven track record in system reliability enhancement. Skilled in developing robust backends and user-friendly interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Email:** dhirendrasingh9348@gmail.com
+- **Phone:** +91 9348317688
+- **[LinkedIn](https://www.linkedin.com/in/dhirendrakusingh/) | [GitHub](https://github.com/DhirendraSingh12)**
+
+---
+
+## Skills
+
+- **Soft Skills:** Team Collaboration, Adaptability, Problem-Solving, Initiative
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Core Java, Node.js
+- **Database:** MySQL, Oracle SQL, MongoDB
+- **Cloud:** GCP, Docker, DevOps
+- **Other:** Git, Maven, Hibernate, Jira, CI/CD, Spring MVC, Spring Boot, Junit 5, Microservices, Eclipse
+
+---
