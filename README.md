@@ -17,6 +17,6 @@ Experienced Associate Software Engineer with expertise in Java, Microsoft techno
 - **Backend:** Core Java, Node.js
 - **Database:** MySQL, Oracle SQL, MongoDB
 - **Cloud:** GCP, Docker, DevOps
-- **Other:** Git, Maven, Hibernate, Jira, CI/CD, Spring MVC, Spring Boot, Junit 5, Microservices, Eclipse
+- **Other:** Git, Maven, Hibernate, Jira, CI/CD, Spring MVC, Spring Boot, ETL , Microservices, Eclipse
 
 ---
