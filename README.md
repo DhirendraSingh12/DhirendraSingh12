@@ -14,9 +14,9 @@ Experienced Associate Software Engineer with expertise in Java, Microsoft techno
 
 - **Soft Skills:** Team Collaboration, Adaptability, Problem-Solving, Initiative
 - **Frontend:** HTML: 🌐, CSS: 🎨, JavaScript: 💻, React.js: ⚛️
-- **Backend:** Core Java, Node.js
-- **Database:** MySQL, Oracle SQL, MongoDB
+- **Backend:** Core Java
+- **Database:** MySQL, Oracle SQL
 - **Cloud:** GCP, Docker, DevOps
-- **Other:** Git, Maven, Hibernate, Jira, CI/CD, Spring MVC, Spring Boot, ETL , Microservices, Eclipse
+- **Other:** Git, Maven, Hibernate, Jira, CI/CD, Spring MVC, Spring Boot, ETL , Microservices, Eclipse, ServiceNow
 
 ---
