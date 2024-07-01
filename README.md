@@ -6,7 +6,7 @@ Experienced Associate Software Engineer with expertise in Java, Microsoft techno
 
 - **Email:** dhirendrasingh9348@gmail.com
 - **Phone:** +91 9348317688
-- **[LinkedIn](https://www.linkedin.com/in/dhirendrakusingh/) | [GitHub](https://github.com/DhirendraSingh12) | [Letcode](https://leetcode.com/u/singh_dhiru977/)**
+- **[LinkedIn](https://www.linkedin.com/in/dhirendrakusingh/) | [GitHub](https://github.com/DhirendraSingh12) | [Leetcode](https://leetcode.com/u/singh_dhiru977/)**
 
 ---
 
