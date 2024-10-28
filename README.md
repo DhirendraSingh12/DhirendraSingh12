@@ -2,7 +2,10 @@
 
 ## Software Engineer | Bengaluru, India
 
-Experienced Associate Software Engineer with expertise in Java, Microsoft technologies, and a proven track record in system reliability enhancement. Skilled in developing robust backends and user-friendly interfaces.
+Full Stack Engineer and Team Lead with 2+ years of experience in Java, Spring Boot, and React.js. Proven expertise in backend system design and development,
+enhancing system reliability and client satisfaction. Skilled in gathering client requirements and translating them into technical specifications. Previously an Associate
+Software Engineer at Torry Harris, focused on improving system uptime and troubleshooting efficiency.
+
 
 - **Email:** dhirendrasingh9348@gmail.com
 - **Phone:** +91 9348317688
